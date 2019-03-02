@@ -12,6 +12,7 @@ import SnapKit
 class ViewController: UIViewController {
 
     var demoView: UIView!
+    var demoView2: UIView!
     
     override func viewDidLoad() {
         super.viewDidLoad()
