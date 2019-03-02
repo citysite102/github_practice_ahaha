@@ -13,6 +13,7 @@ class ViewController: UIViewController {
 
     var demoView: UIView!
     var demoView2: UIView!
+    var demoView3: UIView!
     
     override func viewDidLoad() {
         super.viewDidLoad()
