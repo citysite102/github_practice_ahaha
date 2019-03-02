@@ -14,6 +14,7 @@ class ViewController: UIViewController {
     var demoView: UIView!
     var demoView2: UIView!
     var pushFirst: UIView!
+    var kaneView: UIView!
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -26,6 +27,7 @@ class ViewController: UIViewController {
             make.center.equalTo(view.center)
             make.width.height.equalTo(100)
         }
+        
         
 //        startAnimation()
     }
